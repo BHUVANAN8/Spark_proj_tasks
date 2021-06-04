@@ -1,2 +1,4 @@
 # Spark_proj_tasks
- this project is about ----
+**TASK 1 **
+OBJECTIVE:
+  The project is about to predict the percentage of a student based on their number of study hours. Here am build  predictive model using Simple Linear regression model 
